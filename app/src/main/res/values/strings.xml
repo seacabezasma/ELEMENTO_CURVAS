@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ELEMENTO CURVAS</string>
+    <string name="CURVA">CURVA CIRCULAR SIMPLE</string>
+    <string name="salir">SALIR</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="tv1">ELEMENTOS C.C.S</string>
+    <string name="anterior">Anterior</string>
+    <string name="delta">DELTA</string>
+    <string name="radio">RADIO</string>
+    <string name="abcisa_pc">ABCISA PC</string>
+    <string name="abcisa_pt">ABCISA PT</string>
+    <string name="flecha">FLECHA</string>
+    <string name="e_tangencia">E TANGENCIA</string>
+    <string name="d_10_m">D 10 M</string>
+    <string name="d_1_m">D 1 M</string>
+    <string name="externa">EXTERNA</string>
+    <string name="l_curva">L CURVA</string>
+    <string name="c_principal">C PRINCIPAL</string>
+    <string name="tangente">TANGENTE</string>
+    <string name="grado_curva">GRADO CURVA</string>
+    <string name="CALCULAR">CALCULAR</string>
+    <string name="todo">TODO</string>
+    <string name="g_curvatura">G-Curvatura</string>
+    <string name="long_curva">Long-Curva</string>
+    <string name="c_larga">C-Larga</string>
+    <string name="R">RADIO</string>
+</resources>
